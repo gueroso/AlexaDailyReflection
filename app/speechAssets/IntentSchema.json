@@ -1,0 +1,39 @@
+{
+  "intents": [
+    {
+      "intent": "MeditationIntent",
+      "slots": [
+        {
+          "name": "meditationType",
+          "type": "MEDITATION_TYPE"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    },
+    {
+      "intent": "PrayerIntent",
+      "slots": [
+        {
+          "name": "prayerType",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "payee",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

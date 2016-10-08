@@ -1,0 +1,19 @@
+MeditationIntent what is today's recommended meditation
+MeditationIntent what is my account balance
+MeditationIntent what is my {meditationType} for today
+MeditationIntent what is my {meditationType} for tomorrow
+MeditationIntent what is the balance in my {meditationType}
+MeditationIntent what is the balance in my {meditationType} account
+MeditationIntent check my {meditationType} balance
+MeditationIntent check my {meditationType} account balance
+MeditationIntent check my balance
+MeditationIntent check meditation
+MeditationIntent how many times have I meditated today
+MeditationIntent how many times have I meditated this month
+
+PrayerIntent what is today's recommended prayer from the {bob jones|payee} {amount} dollars
+PrayerIntent send {bob jones|payee} {amount} dollars
+PrayerIntent send {amount} dollars to {bob jones|payee}
+PrayerIntent send {amount} dollars {bob jones|payee}
+
+DemoIntent demo
